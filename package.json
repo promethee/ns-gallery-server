@@ -1,0 +1,29 @@
+{
+  "name": "ns-gallery-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "micro": "^9.3.4",
+    "spark-md5": "^3.0.2"
+  },
+  "devDependencies": {
+    "micro-dev": "^3.0.0"
+  },
+  "scripts": {
+    "start": "micro",
+    "dev": "micro-dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/promethee/remote-gallery-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/promethee/remote-gallery-server/issues"
+  },
+  "homepage": "https://github.com/promethee/remote-gallery-server#readme"
+}

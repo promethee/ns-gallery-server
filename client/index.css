@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+}
+#root {
+  flex-wrap: wrap;
+}
+.image {
+  display: inline-flex;
+  padding: 2px;
+}

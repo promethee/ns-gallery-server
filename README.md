@@ -1,1 +1,1 @@
-# remote-gallery-server
+# ns-gallery-server
